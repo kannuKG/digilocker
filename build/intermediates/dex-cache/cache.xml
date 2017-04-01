@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\4fd7c9893336104df8203e577e9f1c4aa0d88b87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ddbc3c1bb56c85c18b6888e1e8a8f2d9c99b10e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\6f544212298c9f79aead596e67a222855f0d2d0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_377f1d9f35cb06077c5a2a5905337acfe61f661b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\1f75cb9049082f3c60473f63d4abbb41256e126d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cdb3b2d73e838da2944e4210f0ab58be9fd42f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\094419f335bed6086e6acd8f434fd313411f1162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff10ad2f335c0b2a8bccdd7dde4ff25a73d15e3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\d624baee48a8604f78e04fc6ef23cb2d0726cd05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85fb1354e6f982134d285ca8b1c90cae4903a8d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\myApps\smartindia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a3f29a4d2d4260e055e9ec304d04321cd4918438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\bdde726714adccb36eef3b70994ee67595b5c6c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69e3ab59276bc4a01783bb511592fa58f3754dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\52ae4d7827ce52cf5a9b684cef4dcf73be6ed2c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66eae396c3a9b0018190ea3d1da548b391bf2dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\29eb027214e6cb6ba689ed72b7d39bf68264ac75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58d806fa390ca7d850ba4f4a25d3959266a52d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\5c31711054431542129860c11e9cfea482862ef4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7e1ed646003d0f124fe699bf10ed4cc32c459a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\myApps\smartindia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46a053af4788af5c67f0a51583ca805293688d1d">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1232faa8a153c65b9e2f2e59042339d6ec1d7079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nithi\.android\build-cache\7fa48c5e2cfff247abfa16dc1e44725250819942\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="F:\myApps\smartindia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2702b5980ca5ca0c504b549ecda27af588d9c9d1\classes.dex" />
+    </item>
+
+</items>
